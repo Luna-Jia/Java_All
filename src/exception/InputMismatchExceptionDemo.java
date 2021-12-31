@@ -8,7 +8,7 @@ public class InputMismatchExceptionDemo {
         do {
             try {
                 System.out.print("Enter an integer: ");
-                int number = input.nextInt();
+                int number = input.nextInt(); // When executing input.nextInt() (line 11), an InputMismatchException occurs if the input entered is not an integer.
 
                 // Display the result
                 System.out.println("The number entered is " + number);
