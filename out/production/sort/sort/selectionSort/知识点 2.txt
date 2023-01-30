@@ -1,0 +1,27 @@
+
+selection sort 概念：
+Selection sort is a sorting algorithm that treats the input as two parts,
+a sorted part and an unsorted part, and repeatedly selects the proper next
+value to move from the unsorted part to the end of the sorted part.
+
+SelectionSortDemo:
+    1> 算法：selection sort
+        > nested 双 loop
+        > 三行，三值swap
+        > 不同for loop，toString, 一行显示Array全部内容
+        > pass array variable in method
+        > declare and initialize array
+
+        > static VS void method, 一个return值， 一个不return
+        > call含array parameter的method
+
+
+SelectionSortDemo1:
+This program uses the selection sort algorithm to sort an array.
+The code has been modified to also calculate how many item comparisons
+are done. You can try running the program with different arrays to see
+how the total number of comparisons changes (or doesn't change).
+
+
+
+
