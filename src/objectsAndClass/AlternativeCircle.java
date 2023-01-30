@@ -49,3 +49,8 @@ public class AlternativeCircle {
         radius = newRadius;
     }
 }
+
+// https://liveexample.pearsoncmg.com/liang/intro12e/html/SimpleCircleWithLineNumber.html?
+
+// Since the combined class has a main method, it can be executed by the Java interpreter. The main method is the same
+// as that in Listing 9.1. This demonstrates that you can test a class by simply adding a main method in the same class.

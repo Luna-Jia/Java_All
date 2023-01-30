@@ -17,8 +17,8 @@ public class Dec2Hex {
             int hexValue = decimal % 16; // To convert a decimal to a hex number, the program uses a loop to successively divide the decimal number by 16 and obtain its remainder (line 17).
 
             // Convert a decimal value to a hex digit
-            char hexDigit = (0 <= hexValue && hexValue <= 9)? // get a hex char // The remainder is converted into a hex character (lines 20 and 21).
-                    (char)(hexValue + '0'): (char)(hexValue - 10 + 'A'); // The program converts a hexValue between 0 and 15 into a hex character. If hexValue is between 0 and 9, it is converted to (char)(hexValue +'0') (line 21).
+            char hexDigit = (0 <= hexValue && hexValue <= 9)?(char)(hexValue + '0'): (char)(hexValue - 10 + 'A');  // get a hex char // The remainder is converted into a hex character (lines 20 and 21).
+            // The program converts a hexValue between 0 and 15 into a hex character. If hexValue is between 0 and 9, it is converted to (char)(hexValue +'0') (line 21).
 // Recall that when adding a character with an integer, the character’s Unicode is used in the evaluation. For example, if hexValue is 5, (char)(hexValue + '0') returns 5. Similarly, if hexValue is between 10 and 15, it is converted to (char)(hexValue – 10 + 'A') (line 21). For instance, if hexValue is 11, (char),(hexValue – 10 + 'A') returns B.
             hex = hexDigit + hex; // add to hex string // The character is then appended to the hex string (line 23).
             decimal = decimal / 16; //  Divide the decimal number by 16 to remove a hex digit from the number (line 24).

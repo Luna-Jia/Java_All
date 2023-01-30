@@ -9,21 +9,22 @@ public class SelectionSortDemo {
         //In outer loop, variable i holds the index position that will be sorted next in the array.
         for (int i = 0; i < numbers.length - 1; i++) {
             // Find index of smallest remaining element
-            int indexSmallest = i;
+           // int indexSmallest = i;
 
             //In inner loop, variable j examines all indices from i+1 to the end of the array.
             for (int j = i + 1; j < numbers.length; j++) {
-                if (numbers[j] < numbers[indexSmallest]) {
-                    indexSmallest = j;
+                if (numbers[j] < numbers[i]) {
+                    //indexSmallest = j;
+                    int temp = numbers[i];
+                    numbers[i] = numbers[j];
+                    numbers[j] = temp;
                 }
             }
 
             // Swap numbers[i] and numbers[indexSmallest]
             //The variable temp is used to copy the value from numbers[i] to
             // numbers[indexSmallest] and vice-versa.
-            int temp = numbers[i];
-            numbers[i] = numbers[indexSmallest];
-            numbers[indexSmallest] = temp;
+
         }
     }
 

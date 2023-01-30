@@ -1,8 +1,8 @@
 package objectsAndClass;
-public class TestCircle {
-    public static void main(String[] args) { // Main method // The main class contains the main method (line 3) that creates three objects.
+public class TestCircle { // main class
+    public static void main(String[] args) { // 1. The program starts the execution from the main method. // Main method // The main class contains the main method (line 3) that creates three objects.
         // Create a circle with radius 1
-        Circle circle1 = new Circle(); // As in creating an array, the new operator is used to create an object from the constructor: new Circle() creates an object with radius 1 (line 5),
+        Circle circle1 = new Circle(); // 2 . The statement will create an object and assign its  reference to circle1. "new Circle()" will create an object by invoking Circle's constructor // As in creating an array, the new operator is used to create an object from the constructor: new Circle() creates an object with radius 1 (line 5),
         System.out.println("The area of the circle of radius " + circle1.radius + " is " + circle1.getArea());
 //  The data fields can be accessed via the reference of the object using circle1.radius, circle2.radius, and circle3.radius, respectively.
 
@@ -31,8 +31,8 @@ class Circle { // class Circle
     static int numberOfObjects = 0; // static variable
 
     // Construct a circle with radius 1
-    Circle() { // no-arg constructor
-        radius = 1;
+    Circle() { // 3. The constructor is invoked to create an object. The default value for radius is 0. // no-arg constructor
+        radius = 1; // 4. Value 1 is assigned to radius.
         numberOfObjects++; // increase by 1
     }
 
@@ -61,6 +61,8 @@ class Circle { // class Circle
         radius = newRadius;
     }
 }
+
+// https://liveexample-ppe.pearsoncmg.com/codeanimation/TestSimpleCircle.html?
 
 // This is a program that defines the Circle class and uses it to create objects. The pro- gram constructs three circle
 // objects with radius 1, 25, and 125 and displays the radius and area of each of the three circles. It then changes the

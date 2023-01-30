@@ -13,7 +13,7 @@ public class WebCrawler {
         ArrayList<String> listOfPendingURLs = new ArrayList<>(); // list of pending URLs
         ArrayList<String> listOfTraversedURLs = new ArrayList<>(); // list of traversed URLs
 
-        listOfPendingURLs.add(startingURL); // add starting URL // // The crawler(url) method adds the starting url to listOfPendingURLs (line 16)
+        listOfPendingURLs.add(startingURL); // add starting URL // The crawler(url) method adds the starting url to listOfPendingURLs (line 16)
         while (!listOfPendingURLs.isEmpty() && listOfTraversedURLs.size() <= 100) { // and repeatedly process each URL in listOfPendingURLs in a while loop (lines 17–29).
 // The program terminates when the number of traversed URLs reaches 100 (line 17).
             String urlString = listOfPendingURLs.remove(0); // get the first URL // It removes the first URL in the list (line 19)

@@ -63,7 +63,7 @@ public class QuicksortDemo {
 
     public static void main(String[] args) {
         // Create an array of numbers to sort
-        int[] numbers = { 12, 18, 3, 7, 32, 14, 91, 16, 8, 57 };
+        int[] numbers = { 6,1,2,7,3,8,5,4,9,2 };
 
         // Display the unsorted contents of the array
         System.out.println("UNSORTED: " + Arrays.toString(numbers));

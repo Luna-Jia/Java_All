@@ -1,7 +1,8 @@
 package exception;
 public class TestException {
     public static void main(String[] args) {
-        try { System.out.println(sum(new int[] {1, 2, 3, 4, 5})); //  Line 4 invokes the sum method to return the sum of all the elements in the array.
+        try {
+            System.out.println(sum(new int[] {1, 2, 3, 4, 5})); //  Line 4 invokes the sum method to return the sum of all the elements in the array.
         }
         catch (Exception ex) {
             ex.printStackTrace(); // Lines 7, 8, and 9 display the stack trace, exception message, and exception object and message using the printStackTrace(), getMessage(), and toString() methods
