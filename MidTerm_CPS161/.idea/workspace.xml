@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8631c04e-6b2a-43cc-b7f9-60c734e84e9c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1jkzKlnt7DkmaoE7bnypiC3b849" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="RunManager" selected="Application.ForLoop2">
+    <configuration name="ForLoop2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ramdom.ForLoop2" />
+      <module name="huahua" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ramdom.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Function1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ramdom.Function1" />
+      <module name="huahua" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ramdom.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ParameterPassing2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ramdom.ParameterPassing2" />
+      <module name="huahua" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ramdom.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringEqualityTest2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ramdom.StringEqualityTest2" />
+      <module name="huahua" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ramdom.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ramdom.Test" />
+      <module name="huahua" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ramdom.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.ForLoop2" />
+      <item itemvalue="Application.Function1" />
+      <item itemvalue="Application.ParameterPassing2" />
+      <item itemvalue="Application.StringEqualityTest2" />
+      <item itemvalue="Application.Test" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ForLoop2" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.Function1" />
+        <item itemvalue="Application.ParameterPassing2" />
+        <item itemvalue="Application.StringEqualityTest2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8631c04e-6b2a-43cc-b7f9-60c734e84e9c" name="Default Changelist" comment="" />
+      <created>1604362815283</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604362815283</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="879" height="230" key="GridCell.Tab.0.bottom" timestamp="1604367466984">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="879" height="230" key="GridCell.Tab.0.bottom/1440.23.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1604367466984" />
+    <state width="879" height="230" key="GridCell.Tab.0.center" timestamp="1604367466982">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="879" height="230" key="GridCell.Tab.0.center/1440.23.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1604367466982" />
+    <state width="879" height="230" key="GridCell.Tab.0.left" timestamp="1604367466981">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="879" height="230" key="GridCell.Tab.0.left/1440.23.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1604367466981" />
+    <state width="879" height="230" key="GridCell.Tab.0.right" timestamp="1604367466983">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="879" height="230" key="GridCell.Tab.0.right/1440.23.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1604367466983" />
+    <state x="868" y="359" key="com.intellij.ide.util.TipDialog" timestamp="1607899891411">
+      <screen x="0" y="25" width="1920" height="1055" />
+    </state>
+    <state x="868" y="358" key="com.intellij.ide.util.TipDialog/0.23.1920.1057@0.23.1920.1057" timestamp="1604501760256" />
+    <state x="868" y="359" key="com.intellij.ide.util.TipDialog/0.25.1920.1055@0.25.1920.1055" timestamp="1607899891411" />
+    <state x="651" y="301" key="com.intellij.ide.util.TipDialog/1440.23.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1604495443932" />
+  </component>
+</project>

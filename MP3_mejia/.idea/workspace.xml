@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="594e06f4-d36d-4951-81e7-c3453aabf0f3" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1jINE29hRlBPvsIQICMoQ0SXn8X" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager" selected="Application.ATM_Simulation">
+    <configuration name="ATM_Simulation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="atm_simulation.ATM_Simulation" />
+      <module name="MP3_mejia" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="atm_simulation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyStringMethods (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="string_methods.MyStringMethods" />
+      <module name="MP3_mejia" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="string_methods.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyStringMethods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="String_Methods2.MyStringMethods" />
+      <module name="MP3_mejia" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="String_Methods2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Newton_sqrt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="newton_sqrt.Newton_sqrt" />
+      <module name="MP3_mejia" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="newton_sqrt.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="String_Methods$MyStringMethods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="string_methods.String_Methods$MyStringMethods" />
+      <module name="MP3_mejia" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="string_methods.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Newton_sqrt" />
+      <item itemvalue="Application.String_Methods$MyStringMethods" />
+      <item itemvalue="Application.ATM_Simulation" />
+      <item itemvalue="Application.MyStringMethods" />
+      <item itemvalue="Application.MyStringMethods (1)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ATM_Simulation" />
+        <item itemvalue="Application.MyStringMethods (1)" />
+        <item itemvalue="Application.Newton_sqrt" />
+        <item itemvalue="Application.MyStringMethods" />
+        <item itemvalue="Application.String_Methods$MyStringMethods" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="594e06f4-d36d-4951-81e7-c3453aabf0f3" name="Default Changelist" comment="" />
+      <created>1603487532443</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603487532443</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2057" y="238" key="#Project_Structure" timestamp="1603635365831">
+      <screen x="1440" y="23" width="1920" height="1057" />
+    </state>
+    <state x="2057" y="238" key="#Project_Structure/1440.23.1920.1057/0.23.1440.877@1440.23.1920.1057" timestamp="1603635365831" />
+    <state width="1225" height="92" key="GridCell.Tab.0.bottom" timestamp="1603643227030">
+      <screen x="1440" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="268" key="GridCell.Tab.0.bottom/1440.0.1920.1080/0.0.1440.900@1440.0.1920.1080" timestamp="1603517834018" />
+    <state width="1225" height="92" key="GridCell.Tab.0.bottom/1440.23.1920.1057/0.23.1440.877@1440.23.1920.1057" timestamp="1603643227030" />
+    <state width="1225" height="92" key="GridCell.Tab.0.center" timestamp="1603643227030">
+      <screen x="1440" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="268" key="GridCell.Tab.0.center/1440.0.1920.1080/0.0.1440.900@1440.0.1920.1080" timestamp="1603517834015" />
+    <state width="1225" height="92" key="GridCell.Tab.0.center/1440.23.1920.1057/0.23.1440.877@1440.23.1920.1057" timestamp="1603643227030" />
+    <state width="1225" height="92" key="GridCell.Tab.0.left" timestamp="1603643227029">
+      <screen x="1440" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="268" key="GridCell.Tab.0.left/1440.0.1920.1080/0.0.1440.900@1440.0.1920.1080" timestamp="1603517834013" />
+    <state width="1225" height="92" key="GridCell.Tab.0.left/1440.23.1920.1057/0.23.1440.877@1440.23.1920.1057" timestamp="1603643227029" />
+    <state width="1225" height="92" key="GridCell.Tab.0.right" timestamp="1603643227030">
+      <screen x="1440" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="268" key="GridCell.Tab.0.right/1440.0.1920.1080/0.0.1440.900@1440.0.1920.1080" timestamp="1603517834016" />
+    <state width="1225" height="92" key="GridCell.Tab.0.right/1440.23.1920.1057/0.23.1440.877@1440.23.1920.1057" timestamp="1603643227030" />
+    <state x="2497" y="353" key="com.intellij.ide.util.TipDialog" timestamp="1603635348947">
+      <screen x="1440" y="23" width="1920" height="1057" />
+    </state>
+    <state x="2497" y="353" key="com.intellij.ide.util.TipDialog/1440.23.1920.1057/0.23.1440.877@1440.23.1920.1057" timestamp="1603635348947" />
+    <state x="1446" y="23" width="817" height="1057" key="dock-window-1" timestamp="1603601064813">
+      <screen x="1440" y="23" width="1920" height="1057" />
+    </state>
+    <state x="1446" y="23" width="817" height="1057" key="dock-window-1/1440.23.1920.1057/0.23.1440.877@1440.23.1920.1057" timestamp="1603601064813" />
+    <state x="1942" y="187" key="new project wizard" timestamp="1603577221502">
+      <screen x="1440" y="23" width="1920" height="1057" />
+    </state>
+    <state x="1942" y="187" key="new project wizard/1440.23.1920.1057/0.23.1440.877@1440.23.1920.1057" timestamp="1603577221502" />
+    <state x="2180" y="253" width="670" height="676" key="search.everywhere.popup" timestamp="1603509703518">
+      <screen x="1440" y="23" width="1920" height="1057" />
+    </state>
+    <state x="2180" y="253" width="670" height="676" key="search.everywhere.popup/1440.23.1920.1057/0.23.1440.877@1440.23.1920.1057" timestamp="1603509703518" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/MP3_mejia$MyStringMethods__1_.ic" NAME="MyStringMethods (1) Coverage Results" MODIFIED="1603642440630" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>string_methods.*</FILTER>
+    </SUITE>
+  </component>
+</project>

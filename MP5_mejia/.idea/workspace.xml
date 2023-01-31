@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8ec2fa6d-23a3-4864-9d64-20081c875921" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1lDSuUOkhmmHTjDqWd8vuA5wonX" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="RunManager" selected="Application.Fraction">
+    <configuration name="DateArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="date_array.DateArray" />
+      <module name="MP5_mejia" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="date_array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Fraction" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fractions.Fraction" />
+      <module name="MP5_mejia" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="fractions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="MP5_mejia" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="String_array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="string_array.String_array" />
+      <module name="MP5_mejia" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="string_array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="fantasyFootball" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fantasy_football.fantasyFootball" />
+      <module name="MP5_mejia" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="fantasy_football.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.String_array" />
+      <item itemvalue="Application.DateArray" />
+      <item itemvalue="Application.fantasyFootball" />
+      <item itemvalue="Application.Fraction" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Fraction" />
+        <item itemvalue="Application.DateArray" />
+        <item itemvalue="Application.String_array" />
+        <item itemvalue="Application.fantasyFootball" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8ec2fa6d-23a3-4864-9d64-20081c875921" name="Default Changelist" comment="" />
+      <created>1607130391301</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607130391301</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="235" y="496" key="#com.intellij.ide.util.MemberChooser" timestamp="1607214975576">
+      <screen x="0" y="25" width="1920" height="1055" />
+    </state>
+    <state x="235" y="496" key="#com.intellij.ide.util.MemberChooser/0.25.1920.1055@0.25.1920.1055" timestamp="1607214975576" />
+    <state width="1115" height="764" key="GridCell.Tab.0.bottom" timestamp="1607294111952">
+      <screen x="0" y="25" width="1920" height="1055" />
+    </state>
+    <state width="1115" height="764" key="GridCell.Tab.0.bottom/0.25.1920.1055@0.25.1920.1055" timestamp="1607294111952" />
+    <state width="1115" height="764" key="GridCell.Tab.0.center" timestamp="1607294111951">
+      <screen x="0" y="25" width="1920" height="1055" />
+    </state>
+    <state width="1115" height="764" key="GridCell.Tab.0.center/0.25.1920.1055@0.25.1920.1055" timestamp="1607294111951" />
+    <state width="1115" height="764" key="GridCell.Tab.0.left" timestamp="1607294111950">
+      <screen x="0" y="25" width="1920" height="1055" />
+    </state>
+    <state width="1115" height="764" key="GridCell.Tab.0.left/0.25.1920.1055@0.25.1920.1055" timestamp="1607294111950" />
+    <state width="1115" height="764" key="GridCell.Tab.0.right" timestamp="1607294111951">
+      <screen x="0" y="25" width="1920" height="1055" />
+    </state>
+    <state width="1115" height="764" key="GridCell.Tab.0.right/0.25.1920.1055@0.25.1920.1055" timestamp="1607294111951" />
+    <state x="850" y="388" key="com.intellij.ide.util.TipDialog" timestamp="1607235083422">
+      <screen x="0" y="25" width="1920" height="1055" />
+    </state>
+    <state x="850" y="388" key="com.intellij.ide.util.TipDialog/0.25.1920.1055@0.25.1920.1055" timestamp="1607235083422" />
+  </component>
+</project>

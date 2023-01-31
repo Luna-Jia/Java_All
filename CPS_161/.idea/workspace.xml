@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ac934a0b-7136-4282-b167-a48e6e4c3aff" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="package-info" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1jpXHYqVDQCDmVIiT41IlhD88ID" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager" selected="Application.ArrayExamples">
+    <configuration name="ArrayExamples" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Zoom8_15_Array.ArrayExamples" />
+      <module name="CPS_161" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Zoom8_15_Array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Array_Sum_Average_Udemy99" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Zoom8_15_Array.Array_Sum_Average_Udemy99" />
+      <module name="CPS_161" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Zoom8_15_Array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CarDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Zoom5_10_OOP.Car_Class_U78.CarDemo" />
+      <module name="CPS_161" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Zoom5_10_OOP.Car_Class_U78.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CopySort_BigToSmall_Int_U100" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Zoom8_15_Array.CopySort_BigToSmall_Int_U100" />
+      <module name="CPS_161" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Zoom8_15_Array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Fraction" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Zoom5_10_OOP.Fraction" />
+      <module name="CPS_161" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Zoom5_10_OOP.MyDate.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ArrayExamples" />
+        <item itemvalue="Application.Array_Sum_Average_Udemy99" />
+        <item itemvalue="Application.CopySort_BigToSmall_Int_U100" />
+        <item itemvalue="Application.CarDemo" />
+        <item itemvalue="Application.Fraction" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ac934a0b-7136-4282-b167-a48e6e4c3aff" name="Default Changelist" comment="" />
+      <created>1604501919919</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604501919919</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="505" y="128" key="#Project_Structure" timestamp="1604501934683">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state x="505" y="128" key="#Project_Structure/0.23.1920.1057@0.23.1920.1057" timestamp="1604501934683" />
+    <state x="787" y="302" width="625" height="557" key="#com.intellij.ide.util.MemberChooser" timestamp="1607060360301">
+      <screen x="0" y="25" width="1920" height="1055" />
+    </state>
+    <state x="787" y="302" width="625" height="557" key="#com.intellij.ide.util.MemberChooser/0.25.1920.1055@0.25.1920.1055" timestamp="1607060360301" />
+    <state x="2481" y="349" width="455" height="231" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1606345432006">
+      <screen x="1440" y="25" width="1920" height="1055" />
+    </state>
+    <state x="2481" y="349" width="455" height="231" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/1440.25.1920.1055/0.25.1440.875@1440.25.1920.1055" timestamp="1606345432006" />
+    <state x="9" y="25" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1606717541492">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="9" y="25" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.25.1440.875@0.25.1440.875" timestamp="1606717541492" />
+    <state width="323" height="763" key="GridCell.Tab.0.bottom" timestamp="1607968354217">
+      <screen x="0" y="25" width="1920" height="1055" />
+    </state>
+    <state width="769" height="244" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1605989982442" />
+    <state width="370" height="981" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1607139123570" />
+    <state width="1025" height="230" key="GridCell.Tab.0.bottom/0.23.1920.1057@0.23.1920.1057" timestamp="1604719614907" />
+    <state width="1060" height="299" key="GridCell.Tab.0.bottom/0.25.1440.875@0.25.1440.875" timestamp="1606720935299" />
+    <state width="323" height="763" key="GridCell.Tab.0.bottom/0.25.1920.1055@0.25.1920.1055" timestamp="1607968354217" />
+    <state width="737" height="325" key="GridCell.Tab.0.bottom/1440.0.1920.1080/0.0.1440.900@1440.0.1920.1080" timestamp="1606347650836" />
+    <state width="323" height="763" key="GridCell.Tab.0.center" timestamp="1607968354216">
+      <screen x="0" y="25" width="1920" height="1055" />
+    </state>
+    <state width="769" height="244" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1605989982439" />
+    <state width="370" height="981" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1607139123567" />
+    <state width="1025" height="230" key="GridCell.Tab.0.center/0.23.1920.1057@0.23.1920.1057" timestamp="1604719614906" />
+    <state width="1060" height="299" key="GridCell.Tab.0.center/0.25.1440.875@0.25.1440.875" timestamp="1606720935296" />
+    <state width="323" height="763" key="GridCell.Tab.0.center/0.25.1920.1055@0.25.1920.1055" timestamp="1607968354216" />
+    <state width="737" height="325" key="GridCell.Tab.0.center/1440.0.1920.1080/0.0.1440.900@1440.0.1920.1080" timestamp="1606347650822" />
+    <state width="323" height="763" key="GridCell.Tab.0.left" timestamp="1607968354216">
+      <screen x="0" y="25" width="1920" height="1055" />
+    </state>
+    <state width="769" height="244" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1605989982437" />
+    <state width="370" height="981" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1607139123564" />
+    <state width="1025" height="230" key="GridCell.Tab.0.left/0.23.1920.1057@0.23.1920.1057" timestamp="1604719614905" />
+    <state width="1060" height="299" key="GridCell.Tab.0.left/0.25.1440.875@0.25.1440.875" timestamp="1606720935294" />
+    <state width="323" height="763" key="GridCell.Tab.0.left/0.25.1920.1055@0.25.1920.1055" timestamp="1607968354216" />
+    <state width="737" height="325" key="GridCell.Tab.0.left/1440.0.1920.1080/0.0.1440.900@1440.0.1920.1080" timestamp="1606347650817" />
+    <state width="323" height="763" key="GridCell.Tab.0.right" timestamp="1607968354217">
+      <screen x="0" y="25" width="1920" height="1055" />
+    </state>
+    <state width="769" height="244" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1605989982440" />
+    <state width="370" height="981" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1607139123569" />
+    <state width="1025" height="230" key="GridCell.Tab.0.right/0.23.1920.1057@0.23.1920.1057" timestamp="1604719614906" />
+    <state width="1060" height="299" key="GridCell.Tab.0.right/0.25.1440.875@0.25.1440.875" timestamp="1606720935298" />
+    <state width="323" height="763" key="GridCell.Tab.0.right/0.25.1920.1055@0.25.1920.1055" timestamp="1607968354217" />
+    <state width="737" height="325" key="GridCell.Tab.0.right/1440.0.1920.1080/0.0.1440.900@1440.0.1920.1080" timestamp="1606347650834" />
+    <state width="1025" height="285" key="GridCell.Tab.1.bottom" timestamp="1604718823352">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1025" height="285" key="GridCell.Tab.1.bottom/0.23.1920.1057@0.23.1920.1057" timestamp="1604718823352" />
+    <state width="1025" height="285" key="GridCell.Tab.1.center" timestamp="1604718823351">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1025" height="285" key="GridCell.Tab.1.center/0.23.1920.1057@0.23.1920.1057" timestamp="1604718823351" />
+    <state width="1025" height="285" key="GridCell.Tab.1.left" timestamp="1604718823351">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1025" height="285" key="GridCell.Tab.1.left/0.23.1920.1057@0.23.1920.1057" timestamp="1604718823351" />
+    <state width="1025" height="285" key="GridCell.Tab.1.right" timestamp="1604718823351">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1025" height="285" key="GridCell.Tab.1.right/0.23.1920.1057@0.23.1920.1057" timestamp="1604718823351" />
+    <state x="593" y="369" key="com.intellij.ide.util.TipDialog" timestamp="1606872913173">
+      <screen x="0" y="25" width="1920" height="1055" />
+    </state>
+    <state x="576" y="296" key="com.intellij.ide.util.TipDialog/0.23.1440.877@0.23.1440.877" timestamp="1605331012967" />
+    <state x="445" y="310" key="com.intellij.ide.util.TipDialog/0.25.1440.875@0.25.1440.875" timestamp="1605981013355" />
+    <state x="593" y="369" key="com.intellij.ide.util.TipDialog/0.25.1920.1055@0.25.1920.1055" timestamp="1606872913173" />
+    <state x="310" y="310" width="1081" height="624" key="dock-window-1" timestamp="1607200757126">
+      <screen x="0" y="25" width="1920" height="1055" />
+    </state>
+    <state x="310" y="310" width="1081" height="624" key="dock-window-1/0.25.1920.1055@0.25.1920.1055" timestamp="1607200757126" />
+    <state x="440" y="25" width="1323" height="528" key="dock-window-2" timestamp="1607199846831">
+      <screen x="0" y="25" width="1920" height="1055" />
+    </state>
+    <state x="440" y="25" width="1323" height="528" key="dock-window-2/0.25.1920.1055@0.25.1920.1055" timestamp="1607199846831" />
+    <state x="194" y="185" key="new project wizard" timestamp="1607396809222">
+      <screen x="0" y="25" width="1920" height="1055" />
+    </state>
+    <state x="194" y="185" key="new project wizard/0.25.1920.1055@0.25.1920.1055" timestamp="1607396809222" />
+    <state x="2513" y="255" key="run.anything.popup" timestamp="1606358610096">
+      <screen x="1440" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2513" y="255" key="run.anything.popup/1440.0.1920.1080/0.0.1440.900@1440.0.1920.1080" timestamp="1606358610096" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Zoom4_89Loops/LoopExerciseFinal.java</url>
+          <line>6</line>
+          <properties class="Zoom4_89Loops.LoopExerciseFinal" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Zoom4_89Loops/Triangle_Loop.java</url>
+          <line>3</line>
+          <properties class="Zoom4_89Loops.Triangle_Loop" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Zoom8_15_Array/Duobloon.java</url>
+          <line>22</line>
+          <properties class="Zoom8_15_Array.Duobloon" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
